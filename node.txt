@@ -17,7 +17,7 @@ trojan://01f10599@sg.andrew666.xyz:443#🇸🇬SG-阿里云-Trojan
 ssr://N2Q1NzU2MjRiLmF6dXJlaXAub3JnOjMyMzY2OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6cGxhaW46TWt4bU9YUXovP29iZnNwYXJhbT1ORFZsWVRFeE9Ua3hORFF1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TVRrNU1UUTBPbHBpVDJoMmNRJnJlbWFya3M9NmFhWjVyaXZJRUY2ZFhKbGZPV0ZqZWkwdWVTNGplbVprT21BbncmZ3JvdXA9
 
 # 新伯力
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL-RUS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL-RUS22
 
 # 🇺🇸 find me GTHost
 trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
