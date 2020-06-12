@@ -21,3 +21,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL
 
 # 🇺🇸 find me GTHost
 trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
+
+# 🇺🇸 US-GIA
+trojan://123456@s.668899.icu:443#🇺🇸US-GIA
