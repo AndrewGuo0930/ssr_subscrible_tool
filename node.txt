@@ -27,3 +27,6 @@ trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
 
 # 🇺🇸 US-GIA
 trojan://123456@s.668899.icu:443#🇺🇸US-GIA
+
+# US-🍊
+vmess://ewogICAgImFkZCI6ICJ2Lm5qbmEuZ3EiLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICJ2Lm5qbmEuZ3EiLAogICAgImlkIjogIjUzNGRhYzBhLTEyNmMtNDk5MS1iNjdmLWFkMWMxNTIyZDE2NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi80NGNmLyIsCiAgICAicG9ydCI6ICIxNDQzIiwKICAgICJwcyI6ICLlubLmrbvmqZjlrZBWUFMt5Yir5LmwIiwKICAgICJ0bHMiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg#🇺🇸🍊干死桔子，别买！
