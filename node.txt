@@ -1,5 +1,5 @@
 # HK-GCP-Trojan
-trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
+trojan://7e25a478@video.andrew666.xyz:443#🇭🇰
 
 # HK-GCP-安徽联通中转-Trojan
 trojan://7e25a478@feef.fewf.xlddns.xyz:10548#HK-GCP-安徽联通中转-Trojan
