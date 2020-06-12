@@ -1,5 +1,5 @@
 # 唧唧爱心节点
-trojan://12345678@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（点上面的连通性测试，优先选HK/US-GCP、中转和阿里云）💋
+trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（点上面的连通性测试，优先选HK/US-GCP、中转和阿里云）💋
 
 # HK-GCP-Trojan
 trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
