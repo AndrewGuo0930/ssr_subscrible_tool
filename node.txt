@@ -1,8 +1,15 @@
 # HK-GCP-Trojan
+trojan://7e25a478@video.andrew666.xyz:443#HK-GCP-Trojan
 
-trojan://7e25a478@video.andrew666.xyz:443#🇭🇰 HK-GCP-Trojan
+# HK-GCP-安徽联通中转-Trojan
+trojan://7e25a478@feef.fewf.xlddns.xyz:10548#HK-GCP-安徽联通中转-Trojan
+
+# US-GCP-Trojan
+trojan://608dc334@us.andrew666.xyz:443#US-GCP-Trojan
+
+# SG-阿里云-Trojan
+trojan://01f10599@sg.andrew666.xyz:443#SG-阿里云-Trojan
 
 # HK-Azure
-
 ssr://N2Q1NzU2MjRiLmF6dXJlaXAub3JnOjMyMzY2OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6cGxhaW46TWt4bU9YUXovP29iZnNwYXJhbT1ORFZsWVRFeE9Ua3hORFF1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TVRrNU1UUTBPbHBpVDJoMmNRJnJlbWFya3M9NmFhWjVyaXZJRUY2ZFhKbGZPV0ZqZWkwdWVTNGplbVprT21BbncmZ3JvdXA9
 
