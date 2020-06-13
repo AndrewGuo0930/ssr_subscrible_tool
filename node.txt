@@ -16,6 +16,9 @@ trojan://608dc334@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
 # US-GCP-V2ray
 vmess://ewogICAgImFkZCI6ICJ1cy5hbmRyZXc2NjYueHl6IiwKICAgICJhaWQiOiAyMzMsCiAgICAiaG9zdCI6ICJ1cy5hbmRyZXc2NjYueHl6IiwKICAgICJpZCI6ICJjYzYwYThmZS1hNWVlLTQyY2EtYmE2NS02ODY1MTY3YzlkMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZTIwODA0LyIsCiAgICAicG9ydCI6ICIxMzU3OSIsCiAgICAicHMiOiAiVVMtR0NQLVYycmF5IiwKICAgICJ0bHMiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg#🇺🇸US-GCP-V2ray
 
+# UK-GCP-Trojan
+trojan://GJJ20010930@uk.andrew666.xyz:443#🇬🇧UK-GCP-Trojan
+
 # SG-阿里云-Trojan
 trojan://01f10599@sg.andrew666.xyz:443#🇸🇬SG-阿里云-Trojan
 
