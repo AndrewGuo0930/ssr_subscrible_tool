@@ -1,5 +1,5 @@
 # 唧唧爱心节点
-trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（点上面的连通性测试，优先选HK/US-GCP、中转和阿里云）💋
+trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（选连通性测试绿的，优先HK/US-GCP、中转和阿里云）💋
 
 # HK-GCP-Trojan
 trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
@@ -7,8 +7,8 @@ trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
 # HK-GCP-安徽联通中转-Trojan
 trojan://7e25a478@feef.fewf.xlddns.xyz:10548#🇭🇰HK-GCP-安徽联通中转-Trojan
 
-# JP-GCP-Trojan
-trojan://GJJ20010930@jp.andrew666.xyz:443#🇯🇵JP-GCP-Trojan
+# SG-阿里云-Trojan
+trojan://01f10599@sg.andrew666.xyz:443#🇸🇬SG-阿里云-Trojan
 
 # US-GCP-Trojan
 trojan://608dc334@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
@@ -16,17 +16,14 @@ trojan://608dc334@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
 # US-GCP-V2ray
 vmess://ewogICAgImFkZCI6ICJ1cy5hbmRyZXc2NjYueHl6IiwKICAgICJhaWQiOiAyMzMsCiAgICAiaG9zdCI6ICJ1cy5hbmRyZXc2NjYueHl6IiwKICAgICJpZCI6ICJjYzYwYThmZS1hNWVlLTQyY2EtYmE2NS02ODY1MTY3YzlkMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZTIwODA0LyIsCiAgICAicG9ydCI6ICIxMzU3OSIsCiAgICAicHMiOiAiVVMtR0NQLVYycmF5IiwKICAgICJ0bHMiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg#🇺🇸US-GCP-V2ray
 
+# JP-GCP-Trojan
+trojan://GJJ20010930@jp.andrew666.xyz:443#🇯🇵JP-GCP-Trojan
+
 # UK-GCP-Trojan
 trojan://GJJ20010930@uk.andrew666.xyz:443#🇬🇧UK-GCP-Trojan
 
-# SG-阿里云-Trojan
-trojan://01f10599@sg.andrew666.xyz:443#🇸🇬SG-阿里云-Trojan
-
 # HK-Azure
 ssr://N2Q1NzU2MjRiLmF6dXJlaXAub3JnOjMyMzY2OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6cGxhaW46TWt4bU9YUXovP29iZnNwYXJhbT1ORFZsWVRFeE9Ua3hORFF1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TVRrNU1UUTBPbHBpVDJoMmNRJnJlbWFya3M9NmFhWjVyaXZJRUY2ZFhKbGZPV0ZqZWkwdWVTNGplbVprT21BbncmZ3JvdXA9
-
-# 新伯力
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL-RUS
 
 # 🇺🇸 find me GTHost
 trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
@@ -34,5 +31,7 @@ trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
 # 🇺🇸 US-GIA
 trojan://123456@s.668899.icu:443#🇺🇸US-GIA
 
-# US-🍊
-vmess://ewogICAgImFkZCI6ICJ2Lm5qbmEuZ3EiLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICJ2Lm5qbmEuZ3EiLAogICAgImlkIjogIjUzNGRhYzBhLTEyNmMtNDk5MS1iNjdmLWFkMWMxNTIyZDE2NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi80NGNmLyIsCiAgICAicG9ydCI6ICIxNDQzIiwKICAgICJwcyI6ICLlubLmrbvmqZjlrZBWUFMt5Yir5LmwIiwKICAgICJ0bHMiOiAibm9uZSIsCiAgICAidiI6ICIyIgp9Cg#🇺🇸🍊干死桔子，别买！
+# 新伯力
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL-RUS
+
+
