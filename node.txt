@@ -1,28 +1,17 @@
 # 唧唧爱心节点
-trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（选连通性测试绿的，优先HK/US-GCP、中转和阿里云）💋
+trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（选连通性测试绿的，优先HK、GCP）💋
 
 # HK-GCP-Trojan
 trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
 
-# HK-GCP-安徽联通中转-Trojan
-trojan://7e25a478@feef.fewf.xlddns.xyz:10548#🇭🇰HK-GCP-安徽联通中转-Trojan
-
 # HK-anyhk-v2ray
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV80Mi4yMDAuMTEwLjE4NiIsDQogICJhZGQiOiAiYW55aGsucG9yc291bG55Lnh5eiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjY3MDI4MjA1LTQxMWYtNGZlNy1hMzc2LWE2ZTUwYzAzZGQ1NyIsDQogICJhaWQiOiAiMjMzIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=#🇭🇰HK-anyhk-V2ray
 
-# SG-阿里云-Trojan
-trojan://01f10599@sg.andrew666.xyz:443#🇸🇬SG-阿里云-Trojan
+# JP-GCP-Trojan
+trojan://47e23b95@jp.andrew666.xyz:443:🇯🇵JP-GCP-Trojan
 
 # US-GCP-Trojan
 trojan://608dc334@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
 
-# 🇺🇸 find me GTHost
-trojan://sudu19281akks@us1.lwd666.online:443#🇺🇸US-findme-GTHost
-
-# 🇺🇸 US-GIA
-trojan://123456@s.668899.icu:443#🇺🇸US-GIA
-
-# 新伯力
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1RzIwMTlANS4xODguMzguNzM6ODAw#🇷🇺Hul-GL-RUS
 
 
