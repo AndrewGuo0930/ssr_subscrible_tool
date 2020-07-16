@@ -8,7 +8,7 @@ trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV80Mi4yMDAuMTEwLjE4NiIsDQogICJhZGQiOiAiYW55aGsucG9yc291bG55Lnh5eiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjY3MDI4MjA1LTQxMWYtNGZlNy1hMzc2LWE2ZTUwYzAzZGQ1NyIsDQogICJhaWQiOiAiMjMzIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=#🇭🇰HK-anyhk-V2ray
 
 # JP-GCP-Trojan
-trojan://47e23b95@jp.andrew666.xyz:443:🇯🇵JP-GCP-Trojan
+trojan://47e23b95@jp.andrew666.xyz:443#🇯🇵JP-GCP-Trojan
 
 # US-GCP-Trojan
 trojan://608dc334@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
