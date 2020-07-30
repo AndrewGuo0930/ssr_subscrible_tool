@@ -2,7 +2,7 @@
 trojan://7e25a478@video.andrew666.xyz:443#🇨🇳❤唧唧爱心节点（选连通性测试绿的，优先HK、GCP）💋
 
 # HK-GCP-Trojan
-trojan://7e25a478@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
+trojan://fc8a4959@video.andrew666.xyz:443#🇭🇰HK-GCP-Trojan
 
 # HK-anyhk-v2ray
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV80Mi4yMDAuMTEwLjE4NiIsDQogICJhZGQiOiAiYW55aGsucG9yc291bG55Lnh5eiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjY3MDI4MjA1LTQxMWYtNGZlNy1hMzc2LWE2ZTUwYzAzZGQ1NyIsDQogICJhaWQiOiAiMjMzIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=#🇭🇰HK-anyhk-V2ray
