@@ -10,6 +10,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV80Mi4yMDAuMTEwLjE4NiIsDQog
 # JP-GCP-Trojan
 trojan://47e23b95@jp.andrew666.xyz:443#🇯🇵JP-GCP-Trojan
 
+# US-GCP-Trojan
+trojan://322bd4bb@us.andrew666.xyz:443#🇺🇸US-GCP-Trojan
+
 
 
 
